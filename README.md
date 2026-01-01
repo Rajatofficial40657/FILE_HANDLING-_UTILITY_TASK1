@@ -8,10 +8,12 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTOSH
 
 📌 Project Overview
+
 This project demonstrates file handling operations in Java using a single script.  
 The program performs create, write, read, append, replace, and delete operations on a text file with user input and proper documentation.
 
 🎯 Objective
+
 To implement a Java program that demonstrates:
 ->Creating a file
 ->Writing data into a file
@@ -21,6 +23,7 @@ To implement a Java program that demonstrates:
 ->Deleting a file (optional)
 
 🛠️ Technologies Used
+
 Language: Java
 IDE: VS Code
 Concepts:
@@ -30,6 +33,7 @@ Concepts:
 ->String Manipulation
 
 📂 Project Structure
+
 FILE_HANDLING_UTILITY_TASK1
 │
 ├── FileOperations.java
@@ -38,6 +42,7 @@ FILE_HANDLING_UTILITY_TASK1
 
 
 🚀 How to Run the Program
+
 Step 1: Compile the program
 javac FileOperations.java
 
@@ -45,6 +50,7 @@ Step 2: Run the program
 java FileOperations
 
 🧪 Sample Input / Output
+
 Enter file name (with .txt): - FileOperations.java:15text.txt
 Enter text to write into file: - FileOperations.java:24hell code tech my name is rajat 
 
