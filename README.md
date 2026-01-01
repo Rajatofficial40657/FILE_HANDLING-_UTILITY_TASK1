@@ -73,25 +73,26 @@ java FileOperations
 
 🧪 Sample Input / Output
 
-Enter file name (with .txt): - FileOperations.java:15text.txt
+Enter file name (with .txt): text.txt
 
-Enter text to write into file: - FileOperations.java:24hell code tech my name is rajat 
+Enter text to write into file: hello code tech my name is rajat
 
-Reading file content: - FileOperations.java:38
+Reading file content:
 
-hell code tech my name is rajat 
+hello code tech my name is rajat
 
-Enter text to append into file: - FileOperations.java:46from galgotias university
+Enter text to append into file: from galgotias university
 
-Enter word to replace: - FileOperations.java:57hell
+Enter word to replace: hello
 
-Enter new word: - FileOperations.java:60hello
+Enter new word: Hello
 
-Text replaced successfully. - FileOperations.java:77
+Text replaced successfully.
 
-Do you want to delete the file? (yes/no): - FileOperations.java:82no
+Do you want to delete the file? (yes/no): no
 
-File not deleted. - FileOperations.java:92
+File not deleted.
+
 
 
 
